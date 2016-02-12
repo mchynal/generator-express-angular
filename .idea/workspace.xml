@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d873527c-c06e-46a6-8110-db28ccf035c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/express-angular.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/libraries/express_angular_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/app/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/js/app-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/js/config/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/js/controllers/homeCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/js/directives/ptimDoNothing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/js/filters/pln.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/js/services/httpService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/client/views/templates/template1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/server/app-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/server/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/server/routes/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/server/views/error.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../generator-express-angular/templates/server/views/layout.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../generator-express-angular/.gitignore" afterPath="$PROJECT_DIR$/../generator-express-angular/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../generator-express-angular/.idea/workspace.xml" />
     </list>
     <ignored path="express-angular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../generator-express-angular/templates/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -128,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../generator-express-angular/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.026101142">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -157,8 +127,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/templates/README.MD" />
         <option value="$PROJECT_DIR$/app/index.js" />
-        <option value="$PROJECT_DIR$/../generator-express-angular/.gitignore" />
         <option value="$PROJECT_DIR$/../generator-express-angular/app/index.js" />
+        <option value="$PROJECT_DIR$/../generator-express-angular/.gitignore" />
       </list>
     </option>
   </component>
@@ -296,6 +266,13 @@
       <option name="number" value="Default" />
       <updated>1455307171179</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1455317769914</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455317769914</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -304,6 +281,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.246875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -330,6 +308,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -400,14 +382,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../generator-express-angular/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../generator-express-angular/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -436,6 +410,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generator-express-angular/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026101142">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           <folding />
         </state>
       </provider>
