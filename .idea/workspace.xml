@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d873527c-c06e-46a6-8110-db28ccf035c1" name="Default" comment="" />
+    <list default="true" id="d873527c-c06e-46a6-8110-db28ccf035c1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/express-angular.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/libraries/express_angular_node_modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../generator-express-angular/.idea/workspace.xml" afterPath="" />
+    </list>
     <ignored path="express-angular.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -281,7 +290,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455317950686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1455317958819</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1455317958819</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
