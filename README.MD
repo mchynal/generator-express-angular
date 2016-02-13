@@ -20,7 +20,7 @@ production:
 >   `npm start` - starting application
 
 development:
->   `npm supervisor` - starting application in development mode
->   `npm gulp-watch` - start gulp watcher, observe client-side js files and concat to single file app.js
+>   `npm run supervisor` - starting application in development mode
+>   `npm run gulp-watch` - start gulp watcher, observe client-side js files and concat to single file app.js
 
 

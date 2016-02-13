@@ -8,14 +8,11 @@ module.exports = generators.Base.extend({
 
     constructor: function () {
         generators.Base.apply(this, arguments);
-
-        this.tplPath = this.sourceRoot()+'/../../templates/';
-
     },
 
     folders: function () {
         console.log('Creating project...');
-        this.directory(this.tplPath, '.');
+        this.directory(this.sourceRoot(), '.');
     },
 
     install: function () {
