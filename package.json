@@ -6,6 +6,7 @@
   "files": [
     "app"
   ],
+  "repository": "https://github.com/mchynal/generator-express-angular",
   "keywords": ["yeoman-generator"],
   "dependencies": {
     "yeoman-generator": "^0.20.2"
