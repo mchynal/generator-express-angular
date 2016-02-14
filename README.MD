@@ -3,7 +3,7 @@
 
 **Installation**
 
-    npm install -g bower yo generator-express-angular
+    npm install -g bower yo generator-expressjs-angular
 
 
 **How to use generator**
@@ -12,7 +12,7 @@
     
     cd my-app
     
-    yo express-angular
+    yo expressjs-angular
 
 **How to start app**
 

@@ -1,5 +1,5 @@
 {
-  "name": "generator-express-angular",
+  "name": "generator-expressjs-angular",
   "version": "0.1.0",
   "description": "express + angularJS + mongoDB yo generator",
   "author": "Marcin Chynał",
