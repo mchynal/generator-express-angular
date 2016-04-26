@@ -20,11 +20,13 @@
 
 production:
 
-    npm start - starting application
+    npm start - start application
 
 development:
 
-    npm run supervisor - starting application in development mode
+    npm run supervisor - start application in development mode
     npm run gulp-watch - start gulp watcher, observe client-side js files and concat to single file app.js
-
-
+    
+    
+    http://localhost:3000/
+    

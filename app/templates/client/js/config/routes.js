@@ -7,17 +7,11 @@ app.config(function ($routeProvider) {
         .when('/', {
             controller: 'HomeCtrl',
             templateUrl: 'pages/home.html',
-            title: 'Home',
-            access: {
-                annonymous: true,
-            }
+            title: 'Home'
         })
         .when('/other', {
             controller: 'OtherCtrl',
             templateUrl: 'pages/other.html',
-            title: 'Other Page',
-            access: {
-                annonymous: true,
-            }
+            title: 'Other Page'
         })
 });
