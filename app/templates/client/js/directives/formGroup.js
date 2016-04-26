@@ -13,7 +13,7 @@ app.directive('formGroup', function () {
 
             var tplIn = '<div class="col-sm-' + attrs.inputCol + '"></div>';
 
-            var label = '<label for="" class="col-sm-' + attrs.labelCol + ' control-label">' + attrs.ptimFormGroup + '</label>'
+            var label = '<label for="" class="col-sm-' + attrs.labelCol + ' control-label">' + attrs.formGroup + '</label>'
 
             var el = element.wrap(tplOut).wrap(tplIn).parent().parent().prepend(label);
 
