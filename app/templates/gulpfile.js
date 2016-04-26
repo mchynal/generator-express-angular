@@ -9,11 +9,16 @@ gulp.task('default', ['concat'], function () {
     });
 });
 
-gulp.task('concat', function () {
+
+var _concat = function () {
     return gulp.src(["client/js/**/*.js"])
         .pipe(concat("app.js"))
         .pipe(gulp.dest("client/public/javascripts"));
-});
+};
+
+gulp.task('concat', _concat);
+
+gulp.task('install', _concat);
 
 gulp.task('annotate', function () {
     //TODO
@@ -22,3 +27,4 @@ gulp.task('annotate', function () {
 gulp.task('minify', function () {
     //TODO
 });
+
