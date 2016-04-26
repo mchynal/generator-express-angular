@@ -1,6 +1,7 @@
 {
   "name": "app",
   "dependencies": {
+    "lodash": "4.11.2",
     "angular": "~1.5",
     "angular-sanitize": "~1.5",
     "angular-route": "~1.5",

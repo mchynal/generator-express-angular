@@ -1,10 +1,11 @@
 {
   "name": "generator-expressjs-angular",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "express + angularJS + mongoDB yo generator",
   "author": "Marcin Chynał",
   "files": [
-    "app"
+    "app",
+    "make"
   ],
   "repository": "https://github.com/mchynal/generator-express-angular",
   "keywords": ["yeoman-generator"],
