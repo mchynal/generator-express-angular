@@ -19,5 +19,6 @@ module.exports = generators.Base.extend({
         console.log('Installing dependencies...');
         this.npmInstall();
         this.bowerInstall();
+        this.runInstall('gulp');
     }
 });
